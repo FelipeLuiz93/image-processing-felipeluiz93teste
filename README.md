@@ -29,7 +29,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Felipe
-
+Felipe 
+Developed under the guidance of Professor Karina Kato (DIO).
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
